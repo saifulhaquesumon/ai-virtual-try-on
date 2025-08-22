@@ -1,0 +1,7 @@
+streamlit
+torch
+transformers
+diffusers>=0.14.0
+Pillow
+scipy
+accelerate
